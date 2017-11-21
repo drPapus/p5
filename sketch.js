@@ -35,7 +35,7 @@ function draw() {
 	  background(255, 100, 10);
 
 	  fill(250, 200, 200);
-	  ellipse(mouseX, 100, 100, 100)
+	  ellipse(mouseX,mouseY , 100, 100)
 
 	  fill(200, 250, 200);
 	  rect(400, 100, 50, 50);
